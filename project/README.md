@@ -1,4 +1,4 @@
-FINAL_PROJECT_NEUROSCIENCE
+PROJECT
 Description:
 FINAL_PROJECT_NEUROSCIENCE is a Python-based project designed to manage, clean, and analyze patient data for epilepsy research. It provides tools for filtering irrelevant data, conducting detailed analyses, and generating visualizations to help researchers better understand the data and draw conclusions.
 Features:
