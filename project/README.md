@@ -1,6 +1,6 @@
 PROJECT
 Description:
-FINAL_PROJECT_NEUROSCIENCE is a Python-based project designed to manage, clean, and analyze patient data for epilepsy research. It provides tools for filtering irrelevant data, conducting detailed analyses, and generating visualizations to help researchers better understand the data and draw conclusions.
+PROJECT is a Python-based project designed to manage, clean, and analyze patient data for epilepsy research. It provides tools for filtering irrelevant data, conducting detailed analyses, and generating visualizations to help researchers better understand the data and draw conclusions.
 Features:
 Data Cleaning: Remove irrelevant rows and handle missing or inconsistent data efficiently.
 Data Analysis: Perform comprehensive analyses to address research questions about epilepsy.
@@ -9,10 +9,10 @@ Installation
 To set up this project on your system, follow these steps:
 1.	Clone the repository:
 ''''bash
-git clone https://github.com/yourusername/FINAL_PROJECT_NEUROSCIENCE.git
+git clone https://github.com/yourusername/PROJECT.git
 2.	Navigate to the project directory:
 ''''bash
-cd FINAL_PROJECT_NEUROSCIENCE
+cd PROJECT
 3.	Install dependencies:
 ''''bash
 pip install pandas numpy matplotlib
